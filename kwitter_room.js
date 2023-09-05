@@ -1,5 +1,5 @@
 function addroom().getElementById.localstorage
-window.location(kwitterpage.html)
+window.location(kwitterpage.html);
 //Início do código 
 function getData() {firebase.database().ref("/").on('value',
 function(snapshot) {document.getElementById("output").innerHTML =
@@ -10,5 +10,8 @@ roomNames = childKey;
 getData();
 //Fim do código
 
-function rediectToRoomName()
-Window.locate
+function logout();
+window.location = 
+
+function rediectToRoomName();
+window.locate = kwitter_room.html;
